@@ -1,7 +1,7 @@
 # Data_Visualization_Workbook_Power_BI
 
 This is a notebook for data visualization on Microsoft Power BI.  
-Below are several steps for analysis.  
+Below are demonstrations for some steps using sample dataset from: https://youtu.be/NNSHu0rkew8?si=8oZ76U0zjnjWRCJR  
 
 ## Transform data 
 1. Table view mode -> click "Home" -> click "Transform data", "Transform data", this open Power Query Editor  
