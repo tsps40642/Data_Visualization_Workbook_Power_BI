@@ -42,6 +42,9 @@ Can add additional analysis to the visuals to make sense of them
 1. Go to Power BI web surface -> select the chart you want and click "pin visual"
 2. Go to dashboard and you can see, dashboard allows you to put multiple metrics from different report in the same place
 
+## Dashboards 
+Can drag charts from different report and put them together  
+
 ## Set alerts
 1. Click the metric in dashboard -> click "manage alert" -> click "add alert rule"
 2. By setting "Condition", "Threshold", "Max. nitification freq.", you can receive an alert when the value of that metric exceed/drop below the threshold
