@@ -32,6 +32,6 @@ If it doesn't, drag the column that the relationship will rely on to another tab
 
 ## Publish the report  
 1. Click "Home" -> Click "Publish" -> select "My Workspace" to publish
-2. When success, click "Open ... in Power BI" to view your report on Power BI website service
+2. When success, click "Open ... in Power BI" to view your report on Power BI website surface  
 3. Click the top-left "File" -> select the option you want
-4. Or can click "Export" and select the option you want  
+4. Or can click "Export" and select the option you want    
