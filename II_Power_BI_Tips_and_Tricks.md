@@ -28,7 +28,7 @@ Can add additional analysis to the visuals to make sense of them
 2. Click "Text Filter" and drag Customer Name, so we can use Customer Name as a filter
 
 ## Filter 
-1. Click "Slicer" to change the filter form in the previous section  
+1. Click "Slicer" to change the filter form in the previous section (Slicer(new) has more advanced settings)  
 2. Click "Format your visual" can change the form of the filter
 3. If you want to apply the filter to one or multiple pages, expand the "Filters" -> drag Customer Name to "Filters on this page" to apply filters  
 4. Click the eye on top-right so after publishing, users can't modify the filters
